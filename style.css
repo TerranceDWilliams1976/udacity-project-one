@@ -27,6 +27,9 @@ nav li a:hover{
   font-size: 60px;
   margin-right: 80px;
 }
+.button {
+  margin-left: 10px;
+}
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
@@ -149,6 +152,12 @@ nav li a:hover{
   font-family: 'Fredericka the Great', cursive;
   text-decoration: underline;
 }
+
+#splurty {
+  border: 1px solid grey;
+}
+
+/* Footer CSS */
 footer {
   font-family: 'Fredericka the Great', cursive;
 }
@@ -163,10 +172,4 @@ footer {
 #image-1 {
   border-radius: 50%;
   margin-top: 50px;
-}
-.button {
-  margin-left: 10px;
-}
-#splurty {
-  border: 1px solid grey;
 }
